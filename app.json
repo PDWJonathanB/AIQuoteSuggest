@@ -1,0 +1,27 @@
+{
+  "id": "0808564e-eeb6-4df1-90be-9a1108040efc",
+  "name": "AI Quote Suggest",
+  "publisher": "Jonathan B",
+  "version": "1.0.0.0",
+  "brief": "Copilot Quote Suggestion",
+  "description": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.1.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
